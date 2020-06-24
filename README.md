@@ -1,7 +1,7 @@
 # hello-world
-Just checking out this website
-looks cool should be fun to use Props to the Github team!
-also meat is delicious
+Just checking out this website!
+Looks cool, Props to the Github team!
+Also meat is delicious!
 
 
 
